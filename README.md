@@ -1,6 +1,6 @@
 # EATFIT
 
-Brief description of your project.
+
 
 ## How to Start
 
